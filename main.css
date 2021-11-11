@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    background: rgb(0, 174, 255);
+    color: white;
+    font-size: 30px;
+}
+
+.content__fish-list {
+    border: 1px solid black;
+    padding: 1em;
+    margin: 0.5em;
+    width: 100px;
+    height: 100px;
+    background: red;
+    
+    
+}
+
+.content__quote-list {
+    border: 1px solid black;
+    padding: 1em;
+    margin: 0.5em;
+    
+}
+
+.content__location-list {
+    border: 1px solid black;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+ .container {
+    display: flex;
+    border: 1px solid black;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.content {
+    display: flex; 
+    flex-wrap: wrap; 
+}
+
+   
+
+
